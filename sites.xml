@@ -10,6 +10,10 @@
   <compat-mode>Default</compat-mode>
   <open-in>IE11</open-in>
   </site>
+  <site url="pim.rgcarter.co.uk/_admin">
+  <compat-mode>Default</compat-mode>
+  <open-in>IE11</open-in>
+  </site>
   <site url="msn.co.uk">
     <compat-mode>Default</compat-mode>
     <open-in>IE11</open-in>
